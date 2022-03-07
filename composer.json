@@ -1,0 +1,17 @@
+{
+    "name": "aghazdah/IyziPay",
+    "authors": [
+        {
+            "name": "Aghazada Mirismayil",
+            "email": "agazada.ismayil@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "IyziPay": "php-sdk/src/"
+        }
+    }
+}
